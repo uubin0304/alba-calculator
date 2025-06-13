@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uubin0304.github.io/alba-calculator/sitemap.xml
